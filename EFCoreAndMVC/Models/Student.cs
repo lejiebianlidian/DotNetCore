@@ -15,7 +15,6 @@ namespace EFCoreAndMVC.Models
 
         public DateTime EnrollmentDate { get; set; }
 
-        public  MyProperty { get; set; }
 
 
 

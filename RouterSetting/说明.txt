@@ -1,0 +1,53 @@
+﻿
+该项目中学习了基础路由的配置、Area路由的配置以及通过配置，让url地址转变为小写，并且每个单词之间通过-分割，增加可读性。
+一、设置所有路由为小写(如果Controller名称是由多个单词组成，则url会在单词与单词之间加上-)，提高可读性。
+   两种方法：
+   第一种：手动设置
+     ConfigureServices 方法中添加
+	 services.AddRouting(options =>
+            {
+                options.LowercaseUrls = true;
+            });
+	 如果项目中有Area，需要在Configure方法中的app.UseMvc()里面添加Area路由设置，将Area路由地址也设置为小写或则是自定义的名称
+	  routes.MapRoute(
+        name: "areas",
+        template: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+	 然后在Controller 或是 Action 方法上添加 RouteAttribute 的方式将用户自定义路由信息添加到项目的路由表中
+	 例如PostController中的Action：DraftSetting上添加的注释[Route("post/draft-setting")]
+	 Area中的方法也是同样的进行标注例如：[Route("first/home/areas-first-index")]
+   第二种：自动批量设置
+     实现IOutboundParameterTransformer接口，然后在ConfigureServices方法中的 services.AddRouting中添加options.ConstraintMap["slugify"] = typeof(SlugifyParameterTransformer);
+    （SlugifyParameterTransformer是接口IOutboundParameterTransformer的具体实现）
+     具体设置如下：
+     services.AddRouting(options =>
+            {
+                //批量设置需要添加下面这行代码
+                options.ConstraintMap["slugify"] = typeof(SlugifyParameterTransformer);
+                options.LowercaseUrls = true;
+            });
+	 Area中也要进行统一格式化为小写，只需要在Configure中的 app.UseMvc()中添加如下代码即可
+	 routes.MapRoute(
+                    name: "areas",
+                    template: "{area:exists:slugify}/{controller:slugify=Home}/{action:slugify=Index}/{id?}"
+
+                );
+
+
+二、.Net Core路由设置学习：
+两种方法：
+  第一种：
+     在Configure方法中的app.UseMvc()中添加如下代码：
+                  routes.MapRoute(
+                    name: "areas",
+                    template: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+
+                );
+     然后在每个Area的Controller上添加注释[Area("AreaName")]
+  第二种：
+  在Configure方法中的app.UseMvc()中采用MapAreaRoute方式。添加区域路由，不过没增加一个Controller就要增加一个MapAreaRoute。具体代码如下：
+                routes.MapAreaRoute(
+                name: "RoutName",
+                areaName: "AreaName",
+                template: "AreaName/{controller=Home}/{action=Index}/{id?}"
+                );
+				

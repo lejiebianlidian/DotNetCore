@@ -9,7 +9,7 @@ namespace EFCoreAndMVC.Data
 {
     public class SchoolContext:DbContext
     {
-        public SchoolContext(DbContextOptions<SchoolContext> options) :()
+        public SchoolContext(DbContextOptions<SchoolContext> options) :base()
         { }
 
         public DbSet<Course> Courses { get; set; }
