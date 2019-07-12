@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreAndMVC", "EFCoreAndMVC\EFCoreAndMVC.csproj", "{4372C97E-4FB8-45C7-A833-BF83FA046000}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNetCoreRouterSetting", "DotNetCoreRouterSetting", "{0E924521-DDE1-4771-8F34-856837CD669A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NetCore路由设置", ".NetCore路由设置", "{0E924521-DDE1-4771-8F34-856837CD669A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouterSetting", "RouterSetting\RouterSetting.csproj", "{933F00BE-F84E-419F-B735-A0E890FEB213}"
 EndProject
