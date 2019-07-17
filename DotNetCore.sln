@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreAndMVC", "EFCoreAndMV
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NetCore路由设置", ".NetCore路由设置", "{0E924521-DDE1-4771-8F34-856837CD669A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouterSetting", "RouterSetting\RouterSetting.csproj", "{933F00BE-F84E-419F-B735-A0E890FEB213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouterSetting", "RouterSetting\RouterSetting.csproj", "{933F00BE-F84E-419F-B735-A0E890FEB213}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Swagger配置", "Swagger配置", "{D90D3D8C-8C2F-4DBD-B318-DB0057A0E172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger2WebAPI", "Swagger2WebAPI\Swagger2WebAPI.csproj", "{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +27,17 @@ Global
 		{933F00BE-F84E-419F-B735-A0E890FEB213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{933F00BE-F84E-419F-B735-A0E890FEB213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{933F00BE-F84E-419F-B735-A0E890FEB213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{933F00BE-F84E-419F-B735-A0E890FEB213} = {0E924521-DDE1-4771-8F34-856837CD669A}
+		{BA8B75D6-01F8-488D-BC06-13FA1DDEC103} = {D90D3D8C-8C2F-4DBD-B318-DB0057A0E172}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18588BF4-EDD5-42E6-86F1-741AB4AA41C6}
