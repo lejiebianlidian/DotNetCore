@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.705
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreAndMVC", "EFCoreAndMVC\EFCoreAndMVC.csproj", "{4372C97E-4FB8-45C7-A833-BF83FA046000}"
 EndProject
@@ -11,7 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouterSetting", "RouterSett
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Swagger配置", "Swagger配置", "{D90D3D8C-8C2F-4DBD-B318-DB0057A0E172}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger2WebAPI", "Swagger2WebAPI\Swagger2WebAPI.csproj", "{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swagger2WebAPI", "Swagger2WebAPI\Swagger2WebAPI.csproj", "{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ioc依赖注入", "Ioc依赖注入", "{891EC3F9-30C8-4023-8B4C-F1F59C0CE7D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IocByAutofac", "IocByAutofac\IocByAutofac.csproj", "{AE05B8BB-A6CF-4C89-8484-300727EC852C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuiQuan.Data", "RuiQuan.Data\RuiQuan.Data.csproj", "{7E161CCA-704A-4718-9DFF-B7753CCC6D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuiQuan.Core", "RuiQuan.Core\RuiQuan.Core.csproj", "{ACE9F1DA-C5B1-4850-94B6-EDF208E94D97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +39,18 @@ Global
 		{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA8B75D6-01F8-488D-BC06-13FA1DDEC103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE05B8BB-A6CF-4C89-8484-300727EC852C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE05B8BB-A6CF-4C89-8484-300727EC852C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE05B8BB-A6CF-4C89-8484-300727EC852C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE05B8BB-A6CF-4C89-8484-300727EC852C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E161CCA-704A-4718-9DFF-B7753CCC6D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E161CCA-704A-4718-9DFF-B7753CCC6D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E161CCA-704A-4718-9DFF-B7753CCC6D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E161CCA-704A-4718-9DFF-B7753CCC6D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE9F1DA-C5B1-4850-94B6-EDF208E94D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE9F1DA-C5B1-4850-94B6-EDF208E94D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE9F1DA-C5B1-4850-94B6-EDF208E94D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE9F1DA-C5B1-4850-94B6-EDF208E94D97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +58,9 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{933F00BE-F84E-419F-B735-A0E890FEB213} = {0E924521-DDE1-4771-8F34-856837CD669A}
 		{BA8B75D6-01F8-488D-BC06-13FA1DDEC103} = {D90D3D8C-8C2F-4DBD-B318-DB0057A0E172}
+		{AE05B8BB-A6CF-4C89-8484-300727EC852C} = {891EC3F9-30C8-4023-8B4C-F1F59C0CE7D9}
+		{7E161CCA-704A-4718-9DFF-B7753CCC6D2C} = {891EC3F9-30C8-4023-8B4C-F1F59C0CE7D9}
+		{ACE9F1DA-C5B1-4850-94B6-EDF208E94D97} = {891EC3F9-30C8-4023-8B4C-F1F59C0CE7D9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18588BF4-EDD5-42E6-86F1-741AB4AA41C6}

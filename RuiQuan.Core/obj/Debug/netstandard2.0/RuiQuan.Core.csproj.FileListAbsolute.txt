@@ -1,0 +1,4 @@
+F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.csprojAssemblyReference.cache
+F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.csproj.CoreCompileInputs.cache
+F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.AssemblyInfoInputs.cache
+F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.AssemblyInfo.cs
