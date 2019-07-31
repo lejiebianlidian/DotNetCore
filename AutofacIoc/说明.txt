@@ -1,0 +1,4 @@
+﻿autofac替换.net core默认注入组件-批量注入
+https://www.cnblogs.com/wei325/p/9191686.html
+
+https://www.cnblogs.com/bluesummer/p/8875702.html
