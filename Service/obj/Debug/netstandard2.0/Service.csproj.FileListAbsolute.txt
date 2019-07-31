@@ -1,0 +1,12 @@
+F:\Study\DotNetCore\Service\bin\Debug\netstandard2.0\Service.deps.json
+F:\Study\DotNetCore\Service\bin\Debug\netstandard2.0\Service.dll
+F:\Study\DotNetCore\Service\bin\Debug\netstandard2.0\Service.pdb
+F:\Study\DotNetCore\Service\bin\Debug\netstandard2.0\Repostitory.dll
+F:\Study\DotNetCore\Service\bin\Debug\netstandard2.0\Repostitory.pdb
+F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.dll
+F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.pdb

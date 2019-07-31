@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\workspace-local\\DotNetCore\\AutofacIoc\\AutofacIoc.csproj": {}
+    "F:\\Study\\DotNetCore\\AutofacIoc\\AutofacIoc.csproj": {}
   },
   "projects": {
-    "F:\\workspace-local\\DotNetCore\\AutofacIoc\\AutofacIoc.csproj": {
+    "F:\\Study\\DotNetCore\\AutofacIoc\\AutofacIoc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\workspace-local\\DotNetCore\\AutofacIoc\\AutofacIoc.csproj",
+        "projectUniqueName": "F:\\Study\\DotNetCore\\AutofacIoc\\AutofacIoc.csproj",
         "projectName": "AutofacIoc",
-        "projectPath": "F:\\workspace-local\\DotNetCore\\AutofacIoc\\AutofacIoc.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\workspace-local\\DotNetCore\\AutofacIoc\\obj\\",
+        "projectPath": "F:\\Study\\DotNetCore\\AutofacIoc\\AutofacIoc.csproj",
+        "packagesPath": "C:\\Users\\Phantom\\.nuget\\packages\\",
+        "outputPath": "F:\\Study\\DotNetCore\\AutofacIoc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phantom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +29,11 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\Study\\DotNetCore\\Service\\Service.csproj": {
+                "projectPath": "F:\\Study\\DotNetCore\\Service\\Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -64,6 +68,114 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\Study\\DotNetCore\\Repostitory\\Repostitory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Study\\DotNetCore\\Repostitory\\Repostitory.csproj",
+        "projectName": "Repostitory",
+        "projectPath": "F:\\Study\\DotNetCore\\Repostitory\\Repostitory.csproj",
+        "packagesPath": "C:\\Users\\Phantom\\.nuget\\packages\\",
+        "outputPath": "F:\\Study\\DotNetCore\\Repostitory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Phantom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\Study\\DotNetCore\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Study\\DotNetCore\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "F:\\Study\\DotNetCore\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Phantom\\.nuget\\packages\\",
+        "outputPath": "F:\\Study\\DotNetCore\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Phantom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "F:\\Study\\DotNetCore\\Repostitory\\Repostitory.csproj": {
+                "projectPath": "F:\\Study\\DotNetCore\\Repostitory\\Repostitory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
               "autoReferenced": true
             }
           },

@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using AutofacIoc.AutofacExtends;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -21,7 +24,7 @@ namespace AutofacIoc
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
+        public IServiceProvider ConfigureServices(IServiceCollection services)
         {
             services.Configure<CookiePolicyOptions>(options =>
             {
@@ -32,7 +35,10 @@ namespace AutofacIoc
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            return RegisterAutofac(services);//注册Autofac
         }
+
+       
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
@@ -55,6 +61,16 @@ namespace AutofacIoc
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
         }
+        private IServiceProvider RegisterAutofac(IServiceCollection services)
+        {
+            var builder = new ContainerBuilder();
+            builder.Populate(services);
+            builder.RegisterModule<AutofacModuleRegister>();
+            var container = builder.Build();
+            return new AutofacServiceProvider(container);
+        }
+
     }
 }

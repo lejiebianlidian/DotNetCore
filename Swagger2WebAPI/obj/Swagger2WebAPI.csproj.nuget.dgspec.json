@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\workspace-local\\DotNetCore\\Swagger2WebAPI\\Swagger2WebAPI.csproj": {}
+    "F:\\Study\\DotNetCore\\Swagger2WebAPI\\Swagger2WebAPI.csproj": {}
   },
   "projects": {
-    "F:\\workspace-local\\DotNetCore\\Swagger2WebAPI\\Swagger2WebAPI.csproj": {
+    "F:\\Study\\DotNetCore\\Swagger2WebAPI\\Swagger2WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\workspace-local\\DotNetCore\\Swagger2WebAPI\\Swagger2WebAPI.csproj",
+        "projectUniqueName": "F:\\Study\\DotNetCore\\Swagger2WebAPI\\Swagger2WebAPI.csproj",
         "projectName": "Swagger2WebAPI",
-        "projectPath": "F:\\workspace-local\\DotNetCore\\Swagger2WebAPI\\Swagger2WebAPI.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\workspace-local\\DotNetCore\\Swagger2WebAPI\\obj\\",
+        "projectPath": "F:\\Study\\DotNetCore\\Swagger2WebAPI\\Swagger2WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Phantom\\.nuget\\packages\\",
+        "outputPath": "F:\\Study\\DotNetCore\\Swagger2WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phantom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

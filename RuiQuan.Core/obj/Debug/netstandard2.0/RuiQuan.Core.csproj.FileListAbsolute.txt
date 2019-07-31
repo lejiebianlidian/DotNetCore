@@ -2,3 +2,17 @@ F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core
 F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.csproj.CoreCompileInputs.cache
 F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.AssemblyInfoInputs.cache
 F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.AssemblyInfo.cs
+F:\Study\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Core.deps.json
+F:\Study\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Core.dll
+F:\Study\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Core.pdb
+F:\Study\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Data.dll
+F:\Study\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+F:\Study\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Data.pdb
+F:\Study\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.csprojAssemblyReference.cache
+F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.csproj.CoreCompileInputs.cache
+F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.AssemblyInfoInputs.cache
+F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.AssemblyInfo.cs
+F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.csproj.CopyComplete
+F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.dll
+F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.pdb

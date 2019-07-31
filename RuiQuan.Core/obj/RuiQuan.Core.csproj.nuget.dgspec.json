@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\workspace-local\\DotNetCore\\RuiQuan.Core\\RuiQuan.Core.csproj": {}
+    "F:\\Study\\DotNetCore\\RuiQuan.Core\\RuiQuan.Core.csproj": {}
   },
   "projects": {
-    "F:\\workspace-local\\DotNetCore\\RuiQuan.Core\\RuiQuan.Core.csproj": {
+    "F:\\Study\\DotNetCore\\RuiQuan.Core\\RuiQuan.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\workspace-local\\DotNetCore\\RuiQuan.Core\\RuiQuan.Core.csproj",
+        "projectUniqueName": "F:\\Study\\DotNetCore\\RuiQuan.Core\\RuiQuan.Core.csproj",
         "projectName": "RuiQuan.Core",
-        "projectPath": "F:\\workspace-local\\DotNetCore\\RuiQuan.Core\\RuiQuan.Core.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\workspace-local\\DotNetCore\\RuiQuan.Core\\obj\\",
+        "projectPath": "F:\\Study\\DotNetCore\\RuiQuan.Core\\RuiQuan.Core.csproj",
+        "packagesPath": "C:\\Users\\Phantom\\.nuget\\packages\\",
+        "outputPath": "F:\\Study\\DotNetCore\\RuiQuan.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phantom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "F:\\workspace-local\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj": {
-                "projectPath": "F:\\workspace-local\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj"
+              "F:\\Study\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj": {
+                "projectPath": "F:\\Study\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj"
               }
             }
           }
@@ -60,20 +60,20 @@
         }
       }
     },
-    "F:\\workspace-local\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj": {
+    "F:\\Study\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\workspace-local\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj",
+        "projectUniqueName": "F:\\Study\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj",
         "projectName": "RuiQuan.Data",
-        "projectPath": "F:\\workspace-local\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\workspace-local\\DotNetCore\\RuiQuan.Data\\obj\\",
+        "projectPath": "F:\\Study\\DotNetCore\\RuiQuan.Data\\RuiQuan.Data.csproj",
+        "packagesPath": "C:\\Users\\Phantom\\.nuget\\packages\\",
+        "outputPath": "F:\\Study\\DotNetCore\\RuiQuan.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phantom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
