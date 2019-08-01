@@ -4460,6 +4460,29 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Repostitory/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Repostitory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repostitory.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Repostitory": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
       }
     }
   },
@@ -12166,6 +12189,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Repostitory/1.0.0": {
+      "type": "project",
+      "path": "../Repostitory/Repostitory.csproj",
+      "msbuildProject": "../Repostitory/Repostitory.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12174,7 +12207,8 @@
       "Autofac.Extensions.DependencyInjection >= 4.4.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12206,7 +12240,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\workspace-local\\DotNetCore\\Service\\Service.csproj": {
+              "projectPath": "F:\\workspace-local\\DotNetCore\\Service\\Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

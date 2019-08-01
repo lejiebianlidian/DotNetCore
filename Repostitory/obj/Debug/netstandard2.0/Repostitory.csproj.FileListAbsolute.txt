@@ -1,0 +1,8 @@
+F:\Study\DotNetCore\Repostitory\bin\Debug\netstandard2.0\Repostitory.deps.json
+F:\Study\DotNetCore\Repostitory\bin\Debug\netstandard2.0\Repostitory.dll
+F:\Study\DotNetCore\Repostitory\bin\Debug\netstandard2.0\Repostitory.pdb
+F:\Study\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.csproj.CoreCompileInputs.cache
+F:\Study\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.AssemblyInfoInputs.cache
+F:\Study\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.AssemblyInfo.cs
+F:\Study\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.dll
+F:\Study\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.pdb

@@ -10,3 +10,15 @@ F:\workspace-local\DotNetCore\RuiQuan.Data\bin\Debug\netstandard2.0\Microsoft.En
 F:\workspace-local\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.csproj.CopyComplete
 F:\workspace-local\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.dll
 F:\workspace-local\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.pdb
+F:\Study\DotNetCore\RuiQuan.Data\bin\Debug\netstandard2.0\RuiQuan.Data.deps.json
+F:\Study\DotNetCore\RuiQuan.Data\bin\Debug\netstandard2.0\RuiQuan.Data.dll
+F:\Study\DotNetCore\RuiQuan.Data\bin\Debug\netstandard2.0\RuiQuan.Data.pdb
+F:\Study\DotNetCore\RuiQuan.Data\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+F:\Study\DotNetCore\RuiQuan.Data\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+F:\Study\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.csprojAssemblyReference.cache
+F:\Study\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.csproj.CoreCompileInputs.cache
+F:\Study\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.AssemblyInfoInputs.cache
+F:\Study\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.AssemblyInfo.cs
+F:\Study\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.csproj.CopyComplete
+F:\Study\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.dll
+F:\Study\DotNetCore\RuiQuan.Data\obj\Debug\netstandard2.0\RuiQuan.Data.pdb
