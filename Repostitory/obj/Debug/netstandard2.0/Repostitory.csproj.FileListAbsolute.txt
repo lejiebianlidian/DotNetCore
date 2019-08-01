@@ -6,3 +6,12 @@ F:\Study\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.AssemblyInf
 F:\Study\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.AssemblyInfo.cs
 F:\Study\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.dll
 F:\Study\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.pdb
+F:\workspace-local\DotNetCore\Repostitory\bin\Debug\netstandard2.0\Repostitory.deps.json
+F:\workspace-local\DotNetCore\Repostitory\bin\Debug\netstandard2.0\Repostitory.dll
+F:\workspace-local\DotNetCore\Repostitory\bin\Debug\netstandard2.0\Repostitory.pdb
+F:\workspace-local\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.csproj.CoreCompileInputs.cache
+F:\workspace-local\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.AssemblyInfoInputs.cache
+F:\workspace-local\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.AssemblyInfo.cs
+F:\workspace-local\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.dll
+F:\workspace-local\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.pdb
+F:\workspace-local\DotNetCore\Repostitory\obj\Debug\netstandard2.0\Repostitory.csprojAssemblyReference.cache

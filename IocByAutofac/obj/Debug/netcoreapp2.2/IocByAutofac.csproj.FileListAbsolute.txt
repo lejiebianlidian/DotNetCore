@@ -20,7 +20,6 @@ F:\workspace-local\DotNetCore\IocByAutofac\obj\Debug\netcoreapp2.2\Razor\Views\_
 F:\workspace-local\DotNetCore\IocByAutofac\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 F:\workspace-local\DotNetCore\IocByAutofac\obj\Debug\netcoreapp2.2\IocByAutofac.RazorTargetAssemblyInfo.cache
 F:\workspace-local\DotNetCore\IocByAutofac\obj\Debug\netcoreapp2.2\IocByAutofac.RazorTargetAssemblyInfo.cs
-F:\workspace-local\DotNetCore\IocByAutofac\obj\Debug\netcoreapp2.2\IocByAutofac.csprojAssemblyReference.cache
 F:\workspace-local\DotNetCore\IocByAutofac\bin\Debug\netcoreapp2.2\IocByAutofac.pdb
 F:\workspace-local\DotNetCore\IocByAutofac\bin\Debug\netcoreapp2.2\IocByAutofac.Views.dll
 F:\workspace-local\DotNetCore\IocByAutofac\bin\Debug\netcoreapp2.2\IocByAutofac.Views.pdb

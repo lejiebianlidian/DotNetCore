@@ -1,0 +1,64 @@
+﻿@using AutoMapperTest.Enity
+@model AutoMapperTest.Enity.UserDTO
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <table class="table">
+        <tr><td>序号</td><td>用户名</td><td>性别</td><td>地址</td><td>时间</td></tr>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.UserName</td>
+            <td>@Model.Gender</td>
+            <td>@Model.Address</td>
+            <td>@Model.CreateTime</td>
+        </tr>
+
+    </table>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="text-center">
+    <table class="table">
+        <tr><td>序号</td><td>用户名</td><td>性别</td><td>地址</td><td>时间</td></tr>
+        @{
+            foreach (var items in ViewBag.userList)
+            {
+
+                <tr>
+                    <td>@items.Id</td>
+                    <td>@items.UserName</td>
+                    <td>@items.Gender</td>
+                    <td>@items.Address</td>
+                    <td>@items.CreateTime</td>
+                </tr>
+            }
+        }
+
+
+    </table>
+    <p>Learn about <a href="">ViewBag</a>.</p>
+</div>
+
+
+<div class="text-center">
+    <table class="table">
+        <tr><td>序号</td><td>用户名</td><td>性别</td><td>地址</td><td>时间</td></tr>
+        @{
+            foreach (var items in ViewData["userList"] as List<UserDTO>)
+            {
+
+                <tr>
+                    <td>@items.Id</td>
+                    <td>@items.UserName</td>
+                    <td>@items.Gender</td>
+                    <td>@items.Address</td>
+                    <td>@items.CreateTime</td>
+                </tr>
+            }
+        }
+
+
+    </table>
+    <p>Learn about <a href="">ViewData</a>.</p>
+</div>

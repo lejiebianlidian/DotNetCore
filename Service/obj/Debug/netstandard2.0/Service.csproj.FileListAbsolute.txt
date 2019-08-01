@@ -10,3 +10,15 @@ F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
 F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
 F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.dll
 F:\Study\DotNetCore\Service\obj\Debug\netstandard2.0\Service.pdb
+F:\workspace-local\DotNetCore\Service\bin\Debug\netstandard2.0\Service.deps.json
+F:\workspace-local\DotNetCore\Service\bin\Debug\netstandard2.0\Service.dll
+F:\workspace-local\DotNetCore\Service\bin\Debug\netstandard2.0\Service.pdb
+F:\workspace-local\DotNetCore\Service\bin\Debug\netstandard2.0\Repostitory.dll
+F:\workspace-local\DotNetCore\Service\bin\Debug\netstandard2.0\Repostitory.pdb
+F:\workspace-local\DotNetCore\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+F:\workspace-local\DotNetCore\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+F:\workspace-local\DotNetCore\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+F:\workspace-local\DotNetCore\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+F:\workspace-local\DotNetCore\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+F:\workspace-local\DotNetCore\Service\obj\Debug\netstandard2.0\Service.dll
+F:\workspace-local\DotNetCore\Service\obj\Debug\netstandard2.0\Service.pdb

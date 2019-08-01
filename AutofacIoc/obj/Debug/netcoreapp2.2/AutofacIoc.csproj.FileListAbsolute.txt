@@ -55,3 +55,14 @@ F:\Study\DotNetCore\AutofacIoc\obj\Debug\netcoreapp2.2\AutofacIoc.Views.pdb
 F:\Study\DotNetCore\AutofacIoc\obj\Debug\netcoreapp2.2\AutofacIoc.csproj.CopyComplete
 F:\Study\DotNetCore\AutofacIoc\obj\Debug\netcoreapp2.2\AutofacIoc.dll
 F:\Study\DotNetCore\AutofacIoc\obj\Debug\netcoreapp2.2\AutofacIoc.pdb
+F:\workspace-local\DotNetCore\AutofacIoc\bin\Debug\netcoreapp2.2\AutofacIoc.pdb
+F:\workspace-local\DotNetCore\AutofacIoc\bin\Debug\netcoreapp2.2\AutofacIoc.Views.dll
+F:\workspace-local\DotNetCore\AutofacIoc\bin\Debug\netcoreapp2.2\AutofacIoc.Views.pdb
+F:\workspace-local\DotNetCore\AutofacIoc\bin\Debug\netcoreapp2.2\Repostitory.dll
+F:\workspace-local\DotNetCore\AutofacIoc\bin\Debug\netcoreapp2.2\Service.dll
+F:\workspace-local\DotNetCore\AutofacIoc\bin\Debug\netcoreapp2.2\Service.pdb
+F:\workspace-local\DotNetCore\AutofacIoc\bin\Debug\netcoreapp2.2\Repostitory.pdb
+F:\workspace-local\DotNetCore\AutofacIoc\obj\Debug\netcoreapp2.2\AutofacIoc.Views.pdb
+F:\workspace-local\DotNetCore\AutofacIoc\obj\Debug\netcoreapp2.2\AutofacIoc.csproj.CopyComplete
+F:\workspace-local\DotNetCore\AutofacIoc\obj\Debug\netcoreapp2.2\AutofacIoc.dll
+F:\workspace-local\DotNetCore\AutofacIoc\obj\Debug\netcoreapp2.2\AutofacIoc.pdb

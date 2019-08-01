@@ -5,7 +5,6 @@ F:\workspace-local\DotNetCore\RouterSetting\bin\Debug\netcoreapp2.2\RouterSettin
 F:\workspace-local\DotNetCore\RouterSetting\bin\Debug\netcoreapp2.2\RouterSetting.pdb
 F:\workspace-local\DotNetCore\RouterSetting\bin\Debug\netcoreapp2.2\RouterSetting.Views.dll
 F:\workspace-local\DotNetCore\RouterSetting\bin\Debug\netcoreapp2.2\RouterSetting.Views.pdb
-F:\workspace-local\DotNetCore\RouterSetting\obj\Debug\netcoreapp2.2\RouterSetting.csprojAssemblyReference.cache
 F:\workspace-local\DotNetCore\RouterSetting\obj\Debug\netcoreapp2.2\RouterSetting.csproj.CoreCompileInputs.cache
 F:\workspace-local\DotNetCore\RouterSetting\obj\Debug\netcoreapp2.2\RouterSetting.RazorAssemblyInfo.cache
 F:\workspace-local\DotNetCore\RouterSetting\obj\Debug\netcoreapp2.2\RouterSetting.RazorAssemblyInfo.cs

@@ -5,11 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Repostitory\Repostitory.csproj" />
+    <Compile Remove="InterfaceOneToMany\**" />
+    <EmbeddedResource Remove="InterfaceOneToMany\**" />
+    <None Remove="InterfaceOneToMany\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="InterfaceOneToMany\" />
+    <ProjectReference Include="..\Repostitory\Repostitory.csproj" />
   </ItemGroup>
 
 </Project>

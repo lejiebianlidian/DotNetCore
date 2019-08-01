@@ -16,3 +16,13 @@ F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.AssemblyI
 F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.csproj.CopyComplete
 F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.dll
 F:\Study\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.pdb
+F:\workspace-local\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Core.deps.json
+F:\workspace-local\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Core.dll
+F:\workspace-local\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Core.pdb
+F:\workspace-local\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Data.dll
+F:\workspace-local\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+F:\workspace-local\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\RuiQuan.Data.pdb
+F:\workspace-local\DotNetCore\RuiQuan.Core\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.csproj.CopyComplete
+F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.dll
+F:\workspace-local\DotNetCore\RuiQuan.Core\obj\Debug\netstandard2.0\RuiQuan.Core.pdb
